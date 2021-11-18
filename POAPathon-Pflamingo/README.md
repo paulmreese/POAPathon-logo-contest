@@ -2,7 +2,7 @@
 
 ![POAPathon Pflamingo](POAPathon_Pflamingo_QR_Code_Bordered.png)
 
-Given the Hollywood theme of the provided assets, POAPathon Pflamingo represents the wide ranging collaboration inherent in the flamingo's native range: from the American West coast in California, the East Coast in Florida, to Central America, the Caribbean, South America, Africa, the Middle East, Europe, and Asia.
+Given the Hollywood theme of the provided assets, POAPathon Pflamingo connects from the American West coast in California to the wide ranging collaboration represented by the flamingo's native range: the East Coast in Florida, Central America, the Caribbean, South America, Africa, the Middle East, Europe, and Asia.
 
 ## Design
 
