@@ -2,8 +2,6 @@
 
 ![POAPathon Pflamingo](/POAPathon_Pflamingo_QR_Code_Bordered.png)
 
-My entry for the 2021 POAPathon mascot design competition, divided by contest.
-
 Given the Hollywood theme of the provided assets, POAPathon Pflamingo represents the wide ranging collaboration inherent in the flamingo's native range: from the American West coast in California, the East Coast in Florida, to Central America, the Caribbean, South America, Africa, the Middle East, Europe, and Asia.
 
 ## Design
