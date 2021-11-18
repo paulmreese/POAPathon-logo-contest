@@ -13,12 +13,12 @@ POAPathon Pflamingo's design is a juxtaposition of the conventional art themes w
 Two version of the design are provided, as well as the frame.
 
 POAPathon Pflamingo at a distance, with or without event QR Code:
-- POAPathon_Pflamingo_QR_Code_Bordered.png
-- POAPathon_Pflamingo.png
+- [POAPathon_Pflamingo_QR_Code_Bordered](POAPathon_Pflamingo_QR_Code_Bordered.png)
+- [POAPathon_Pflamingo](POAPathon_Pflamingo.png)
 
 POAPathon Pflamingo's Hollywood headshot, with or without event QR Code:
-- POAPathon_Pflamingo_Headshot_QR_Code.png
-- POAPathon_Pflamingo_Headshot.png
+- [POAPathon_Pflamingo_Headshot_QR_Code](POAPathon_Pflamingo_Headshot_QR_Code.png)
+- [POAPathon_Pflamingo_Headshot](POAPathon_Pflamingo_Headshot.png)
 
 POAPathon Pflamingo frame:
-- POAPathon_Pflamingo_Frame.png
+- [POAPathon_Pflamingo_Frame](POAPathon_Pflamingo_Frame.png)
