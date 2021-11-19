@@ -1,6 +1,6 @@
 # POAPathon Head-to-Head
 
-![POAPathon GOATs Head-to-Head](POAPathon_Head_to_Head.png)
+![POAPathon GOATs Head-to-Head](POAPathon_Head_to_Head_3.png)
 
 ## Design
 
