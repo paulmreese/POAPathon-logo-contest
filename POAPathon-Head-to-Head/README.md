@@ -2,6 +2,8 @@
 
 ![POAPathon GOATs Head-to-Head Badge](POAPathon_Head_to_Head_Badge.png)
 
+My submission for [POAPathon Head-to-Head](https://gitcoin.co/issue/poapathon/poapathon2021/7/100027133)
+
 ## Design
 
 The theme of this design is simple: POAPathon participants going head-to-head across space to establish who is the G.O.A.T.!

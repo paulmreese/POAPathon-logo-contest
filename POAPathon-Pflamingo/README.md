@@ -2,6 +2,8 @@
 
 ![POAPathon Pflamingo](POAPathon_Pflamingo_QR.png)
 
+My submission for the [POAPathon](https://gitcoin.co/issue/poapathon/poapathon2021/9/100027135)
+
 Given the Hollywood theme of the provided assets, POAPathon Pflamingo connects from the American West coast in California to the wide ranging collaboration represented by the flamingo's native range: the East Coast in Florida, Central America, the Caribbean, South America, Africa, the Middle East, Europe, and Asia.
 
 ## Design
