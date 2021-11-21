@@ -1,6 +1,6 @@
 # POAPathon Head-to-Head
 
-![POAPathon GOATs Head-to-Head](POAPathon_Head_to_Head.png)
+![POAPathon GOATs Head-to-Head Badge](POAPathon_Head_to_Head_Badge.png)
 
 ## Design
 
@@ -11,4 +11,4 @@ The theme of this design is simple: POAPathon participants going head-to-head ac
 Two version of the design are provided.
 
 - [POAPathon GOATs Head-to-Head Circular](POAPathon_Head_to_Head.png)
-- [POAPathon GOATs Head-to-Head Badge](POAPathon_Head_to_Head.png)
+- [POAPathon GOATs Head-to-Head Badge](POAPathon_Head_to_Head_Badge.png)
